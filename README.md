@@ -45,20 +45,3 @@ As a Master’s student in Big Data, Data Science, and AI, I’m continuously le
 
 ![Esteban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=estebannromeroo&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estebannromeroo&langs_count=8&theme=dark)
-
---- 
-## 📬 Connect with Me:
-
-<div align="left">
-
-[<img src="https://www.svgrepo.com/show/349436/linkedin.svg" width="40px" alt="LinkedIn">](https://linkedin.com/in/esteban-romero-30ab28208)
-&nbsp;&nbsp;&nbsp;
-[<img src="https://www.svgrepo.com/show/452213/gmail.svg" width="40px" alt="Gmail">](mailto:estebanromero124@gmail.com)
-
-</div>
-
-
-
-
-
-
