@@ -8,7 +8,7 @@ As a Master’s student in Big Data, Data Science, and AI, I’m continuously le
 
 ---
 
-## 🛠️ **Tech Stack & Tools:**
+## 🛠️ **Tech Stack & Tools**
 
 <img align="left" alt="Python" width="40px" style="padding-right:15px;" src="https://www.svgrepo.com/show/452091/python.svg" />
 <img align="left" alt="R" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
@@ -28,14 +28,14 @@ As a Master’s student in Big Data, Data Science, and AI, I’m continuously le
 
 ---
 
-## Currently Learning:
+## Currently Learning
 - **Machine Learning** 🧠: Building predictive models and applying algorithms
 - **AI & Deep Learning** 💥: Understanding neural networks and their applications
 - **Advanced SQL & Data Engineering Techniques** 🔍: Mastering complex queries and optimizing data pipelines
 
 ---
 
-## 📂 Notable Projects:
+## 📂 Notable Projects
 - [**Project 1**](https://github.com/yourusername/project1): Description of project.
 - [**Project 2**](https://github.com/yourusername/project2): Description of project.
   
