@@ -27,19 +27,14 @@ As a Master’s student in Big Data, Data Science, and AI, I’m continuously le
 <br/>
 
 ---
-
 ## Currently Learning
 - **Machine Learning** 🧠: Building predictive models and applying algorithms
 - **AI & Deep Learning** 💥: Understanding neural networks and their applications
 - **Advanced SQL & Data Engineering Techniques** 🔍: Mastering complex queries and optimizing data pipelines
 
----
-
 ## 📂 Notable Projects
 - [**Project 1**](https://github.com/yourusername/project1): Description of project.
 - [**Project 2**](https://github.com/yourusername/project2): Description of project.
-  
----
 
 ## ⚙️ GitHub Analytics
 
