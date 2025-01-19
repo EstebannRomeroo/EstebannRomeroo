@@ -33,8 +33,7 @@ As a Master’s student in Big Data, Data Science, and AI, I’m continuously le
 - **Advanced SQL & Data Engineering Techniques** 🔍: Mastering complex queries and optimizing data pipelines
 
 ## 📂 Notable Projects
-- [**Project 1**](https://github.com/yourusername/project1): Description of project.
-- [**Project 2**](https://github.com/yourusername/project2): Description of project.
+- [**Project 1**](https://github.com/EstebannRomeroo/ArteVidaCultural_Database_project_SQL): This project showcases a complete database structure, data population, triggers, views, and queries for analysis and reporting.
 
 ## ⚙️ GitHub Analytics
 
