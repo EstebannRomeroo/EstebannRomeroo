@@ -2,7 +2,7 @@
 
 **`🎯 Junior Data Analyst | 🎓 Master’s Student in Big Data, Data Science, and AI`**
 
-I'm an Industrial Engineer turned Data Analyst and AI Enthusiast, dedicated to building the future of technology one dataset at a time. Currently diving deep into the world of Data Science, Big Data, and AI, I focus on solving real-world challenges with data-driven insights and machine learning models. Every project I undertake is built from the ground up—starting from data exploration and cleaning, all the way to applying complex algorithms to uncover hidden patterns.
+I'm a Data Analyst and AI Enthusiast, dedicated to building the future of technology one dataset at a time. Currently diving deep into the world of Data Science, Big Data, and AI, I focus on solving real-world challenges with data-driven insights and machine learning models. Every project I undertake is built from the ground up—starting from data exploration and cleaning, all the way to applying complex algorithms to uncover hidden patterns.
 
 As a Master’s student in Big Data, Data Science, and AI, I’m continuously learning and experimenting with new tools and techniques to refine my skills. My journey includes everything from analyzing massive datasets to developing AI-driven solutions, with the ultimate goal of becoming a Machine Learning Engineer and AI Specialist.
 
